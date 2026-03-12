@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (7931 workflows)
+## 📚 Workflows Summary (7935 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -4882,6 +4882,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Generate UGC-style AI videos with Google Sheets, NanoBanana Pro and Veo 3.1-12752](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20UGC-style%20AI%20videos%20with%20Google%20Sheets%2C%20NanoBanana%20Pro%20and%20Veo%203.1-12752)
 - [Generate UI Design Images with Replicate's Draft UI Designer Model-7097](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20UI%20Design%20Images%20with%20Replicate's%20Draft%20UI%20Designer%20Model-7097)
 - [Generate Unlimited E-Commerce Ad Creative with Nano Banana Image Generator-8226](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Unlimited%20E-Commerce%20Ad%20Creative%20with%20Nano%20Banana%20Image%20Generator-8226)
+- [Generate Upwork proposals with GPT-4o-mini, Airtable and Slack-13870](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Upwork%20proposals%20with%20GPT-4o-mini%2C%20Airtable%20and%20Slack-13870)
 - [Generate Urban Architecture Images with Lemaar Door AI via Replicate-6879](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Urban%20Architecture%20Images%20with%20Lemaar%20Door%20AI%20via%20Replicate-6879)
 - [Generate UTM-tagged Bitly Links from Slack with GPT-4o-mini and Google Sheets Logging-6130](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20UTM-tagged%20Bitly%20Links%20from%20Slack%20with%20GPT-4o-mini%20and%20Google%20Sheets%20Logging-6130)
 - [Generate VEED AI talking head videos from sheet rows with OpenAI or ElevenLabs-12727](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20VEED%20AI%20talking%20head%20videos%20from%20sheet%20rows%20with%20OpenAI%20or%20ElevenLabs-12727)
@@ -6395,6 +6396,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Save Typeform survey results to Airtable-384](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Save%20Typeform%20survey%20results%20to%20Airtable-384)
 - [Save your workflows into a Gitlab repository-2385](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Save%20your%20workflows%20into%20a%20Gitlab%20repository-2385)
 - [Scalable Multi-Agent Chat Using @mentions-3473](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Scalable%20Multi-Agent%20Chat%20Using%20%40mentions-3473)
+- [Scan code repositories for governance issues with GPT-4o and severity-based reports-13900](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Scan%20code%20repositories%20for%20governance%20issues%20with%20GPT-4o%20and%20severity-based%20reports-13900)
 - [Scan Confluence pages with the REST API for inactive page owners-12238](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Scan%20Confluence%20pages%20with%20the%20REST%20API%20for%20inactive%20page%20owners-12238)
 - [Scan Gmail links with VirusTotal and send alerts to WhatsApp, Teams, and Sheets-13581](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Scan%20Gmail%20links%20with%20VirusTotal%20and%20send%20alerts%20to%20WhatsApp%2C%20Teams%2C%20and%20Sheets-13581)
 - [Scan Single URLs for Security Vulnerabilities with GPT-4 (JS, PHP, Python)-10801](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Scan%20Single%20URLs%20for%20Security%20Vulnerabilities%20with%20GPT-4%20(JS%2C%20PHP%2C%20Python)-10801)
@@ -6944,6 +6946,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Summarize Apple App Store Reviews with Pinecone, GPT-4 Mini & Slack Notifications-10666](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Summarize%20Apple%20App%20Store%20Reviews%20with%20Pinecone%2C%20GPT-4%20Mini%20%26%20Slack%20Notifications-10666)
 - [Summarize Calls & Notify Teams via HubSpot, Slack, Email, WhatsApp-4641](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Summarize%20Calls%20%26%20Notify%20Teams%20via%20HubSpot%2C%20Slack%2C%20Email%2C%20WhatsApp-4641)
 - [Summarize Content from URLs, Text & PDFs using OpenAI GPT-4.1-mini-8210](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Summarize%20Content%20from%20URLs%2C%20Text%20%26%20PDFs%20using%20OpenAI%20GPT-4.1-mini-8210)
+- [Summarize daily Jenkins test runs with Google Sheets, HTTP and Gemini AI-13808](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Summarize%20daily%20Jenkins%20test%20runs%20with%20Google%20Sheets%2C%20HTTP%20and%20Gemini%20AI-13808)
 - [Summarize Documents, Images & Spreadsheets with Gemma 3 on Ollama-5858](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Summarize%20Documents%2C%20Images%20%26%20Spreadsheets%20with%20Gemma%203%20on%20Ollama-5858)
 - [Summarize Glassdoor Company Info with Google Gemini and Bright Data Web Scraper-3532](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Summarize%20Glassdoor%20Company%20Info%20with%20Google%20Gemini%20and%20Bright%20Data%20Web%20Scraper-3532)
 - [Summarize Gmail emails with Gemini and send an HTML action digest-13126](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Summarize%20Gmail%20emails%20with%20Gemini%20and%20send%20an%20HTML%20action%20digest-13126)
@@ -7640,6 +7643,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Warm up Gmail inboxes with OpenAI GPT-4o-mini and Data Tables-12750](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Warm%20up%20Gmail%20inboxes%20with%20OpenAI%20GPT-4o-mini%20and%20Data%20Tables-12750)
 - [Watch GitHub releases and Docker tags, analyze changelogs with Claude Haiku, and send update digests to Slack, Discord, Telegram, and ntfy-13677](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Watch%20GitHub%20releases%20and%20Docker%20tags%2C%20analyze%20changelogs%20with%20Claude%20Haiku%2C%20and%20send%20update%20digests%20to%20Slack%2C%20Discord%2C%20Telegram%2C%20and%20ntfy-13677)
 - [Watchdog: Update All Workflows With Default Error Workflow-2169](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Watchdog%3A%20Update%20All%20Workflows%20With%20Default%20Error%20Workflow-2169)
+- [Watermark and password-protect new Google Drive PDFs with Autype-13892](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Watermark%20and%20password-protect%20new%20Google%20Drive%20PDFs%20with%20Autype-13892)
 - [Weather Alerts via SMS (OpenWeather + Twilio)-8040](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Weather%20Alerts%20via%20SMS%20(OpenWeather%20%2B%20Twilio)-8040)
 - [Weather check workflow for bash-dash-986](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Weather%20check%20workflow%20for%20bash-dash-986)
 - [Web Content to Telegram Publisher with AI Enhancement & Image Watermarking-9441](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Web%20Content%20to%20Telegram%20Publisher%20with%20AI%20Enhancement%20%26%20Image%20Watermarking-9441)
